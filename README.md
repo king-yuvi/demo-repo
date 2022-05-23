@@ -1,6 +1,3 @@
-#intialize
-some text
-some more text
-more more more more
-and 
-more
+#Demo text
+Followeing python code to parse
+print("Hello World")
